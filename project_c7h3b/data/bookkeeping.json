@@ -1,0 +1,80 @@
+{
+    "calendar": [
+        {
+            "month": 1,
+            "year": 2020,
+            "spendingList": [
+                {
+                    "amount": 3,
+                    "name": "Milk",
+                    "categories": [
+                        "Food",
+                        "Dairy"
+                    ]
+                },
+                {
+                    "amount": 250,
+                    "name": "TV",
+                    "categories": [
+                        "Electronics",
+                        "Home"
+                    ]
+                },
+                {
+                    "amount": 35,
+                    "name": "Bottle",
+                    "categories": [
+                        "Hydration",
+                        "Personal"
+                    ]
+                }
+            ],
+            "day": 4
+        },
+        {
+            "month": 2,
+            "year": 2020,
+            "spendingList": [
+                {
+                    "amount": 3,
+                    "name": "Chips",
+                    "categories": [
+                        "Food",
+                        "Snacks"
+                    ]
+                },
+                {
+                    "amount": 1650,
+                    "name": "Computer",
+                    "categories": [
+                        "Electronics",
+                        "Personal"
+                    ]
+                },
+                {
+                    "amount": 20,
+                    "name": "Pizza",
+                    "categories": [
+                        "Food",
+                        "Outing"
+                    ]
+                }
+            ],
+            "day": 8
+        },
+        {
+            "month": 1,
+            "year": 2024,
+            "spendingList": [{
+                "amount": 35,
+                "name": "Shoes",
+                "categories": [
+                    "Personal",
+                    "Clothing"
+                ]
+            }],
+            "day": 1
+        }
+    ],
+    "name": "myCalendar"
+}

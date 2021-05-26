@@ -1,0 +1,32 @@
+{
+  "calendar": [
+    {
+      "month": 13,
+      "year": 2020,
+      "spendingList": [
+        {
+          "amount": 2,
+          "name": "chocolate",
+          "categories": ["Sweets"]
+        },
+        {
+          "amount": 200,
+          "name": "TV",
+          "categories": ["Electronics"]
+        }
+      ],
+      "day": 1
+    },
+    {
+      "month": 1,
+      "year": 2020,
+      "spendingList": [{
+        "amount": 2,
+        "name": "chocolate",
+        "categories": ["Sweets"]
+      }],
+      "day": 2
+    }
+  ],
+  "name": "Kiki's Calendar"
+}
